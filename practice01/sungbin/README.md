@@ -6,10 +6,10 @@
 
 ## 1. 제출 파일
 
-저장소의 `practice01/`에 아래 10개 파일을 함께 둡니다. 모든 구현은 노트북 안에 있어 별도의 Python 소스 파일이 필요하지 않습니다.
+저장소의 `practice01/sungbin/`에 아래 10개 파일을 함께 둡니다. 모든 구현은 노트북 안에 있어 별도의 Python 소스 파일이 필요하지 않습니다.
 
 ```text
-practice01/
+practice01/sungbin/
 ├── README.md          # 설명과 실행 방법
 ├── requirements.txt   # PyTorch 의존성
 ├── num2text.ipynb      # 전체 코드, 설명, 평가 출력, 사용 예제
@@ -29,7 +29,7 @@ practice01/
 ### 기본 실행: 저장 모델 평가
 
 1. Python 3.10 이상과 Jupyter 또는 VS Code의 노트북 실행 환경을 준비합니다.
-2. 터미널에서 `practice01` 폴더로 이동해 의존성을 설치합니다.
+2. 터미널에서 `practice01/sungbin` 폴더로 이동해 의존성을 설치합니다.
 
    ```bash
    python -m pip install -r requirements.txt
@@ -40,7 +40,7 @@ practice01/
 
 기본 실행은 새로 학습하지 않고 제공 모델 6개를 시험 데이터 전체로 평가합니다. 마지막 코드 셀에서는 모델을 파일에서 다시 불러와 6방향 번역 예제를 보여 줍니다. 노트북에 저장된 출력은 이 평가 모드로 실행한 결과입니다.
 
-CPU에서도 실행할 수 있으며 CUDA를 사용할 수 있으면 자동으로 GPU를 사용합니다. GPU용 PyTorch는 환경에 맞는 빌드가 필요합니다. 작업 폴더는 `practice01` 또는 그 상위 저장소 폴더여야 합니다.
+CPU에서도 실행할 수 있으며 CUDA를 사용할 수 있으면 자동으로 GPU를 사용합니다. GPU용 PyTorch는 환경에 맞는 빌드가 필요합니다. 작업 폴더는 `practice01/sungbin`, `practice01` 또는 저장소 루트여야 합니다.
 
 ### 번역만 사용하기
 
@@ -148,4 +148,4 @@ translate("만 이천삼백사십오", "ko", "en")
 
 ## 기존 실습 파일
 
-`GRU_Greedy.ipynb`, `LSTM_Greedy.ipynb`와 대응 가중치 및 TXT 데이터는 기존 실습 파일입니다. 이 문서에서 설명하는 방향별 GRU + Attention 구현은 `num2text.ipynb`입니다.
+`GRU_Greedy.ipynb`, `LSTM_Greedy.ipynb`와 대응 가중치 및 TXT 데이터는 상위 `practice01/`에 있는 기존 실습 파일입니다. 이 문서에서 설명하는 방향별 GRU + Attention 구현은 `num2text.ipynb`입니다.
