@@ -1,0 +1,1490 @@
+[
+  {
+    "model": "baseline",
+    "direction": "en2ko",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2ko",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2ko",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2ko",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2ko",
+    "digits": "5",
+    "n": 245,
+    "correct": 245,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2ko",
+    "digits": "6",
+    "n": 26,
+    "correct": 25,
+    "exact_match": 0.9615384615384616
+  },
+  {
+    "model": "baseline",
+    "direction": "en2ko",
+    "digits": "7",
+    "n": 3,
+    "correct": 1,
+    "exact_match": 0.3333333333333333
+  },
+  {
+    "model": "baseline",
+    "direction": "en2ko",
+    "digits": "8",
+    "n": 1,
+    "correct": 0,
+    "exact_match": 0.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2ko",
+    "digits": "all",
+    "n": 1275,
+    "correct": 1271,
+    "exact_match": 0.9968627450980392
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1498,
+    "exact_match": 0.9986666666666667
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "2",
+    "n": 9,
+    "correct": 7,
+    "exact_match": 0.7777777777777778
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1500,
+    "exact_match": 0.9993337774816788
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline",
+    "direction": "en2num",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9995,
+    "exact_match": 0.9994000599940006
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2en",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2en",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2en",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2en",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2en",
+    "digits": "5",
+    "n": 245,
+    "correct": 244,
+    "exact_match": 0.9959183673469387
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2en",
+    "digits": "6",
+    "n": 26,
+    "correct": 26,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2en",
+    "digits": "7",
+    "n": 3,
+    "correct": 3,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2en",
+    "digits": "8",
+    "n": 1,
+    "correct": 0,
+    "exact_match": 0.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2en",
+    "digits": "all",
+    "n": 1275,
+    "correct": 1273,
+    "exact_match": 0.9984313725490196
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1501,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1498,
+    "exact_match": 0.9986666666666667
+  },
+  {
+    "model": "baseline",
+    "direction": "ko2num",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9998,
+    "exact_match": 0.9997000299970003
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1499,
+    "exact_match": 0.9986675549633578
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1498,
+    "exact_match": 0.9986666666666667
+  },
+  {
+    "model": "baseline",
+    "direction": "num2en",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9996,
+    "exact_match": 0.9995000499950005
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1501,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1495,
+    "exact_match": 0.9966666666666667
+  },
+  {
+    "model": "baseline",
+    "direction": "num2ko",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9993,
+    "exact_match": 0.9992000799920008
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2ko",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2ko",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2ko",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2ko",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2ko",
+    "digits": "5",
+    "n": 245,
+    "correct": 245,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2ko",
+    "digits": "6",
+    "n": 26,
+    "correct": 26,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2ko",
+    "digits": "7",
+    "n": 3,
+    "correct": 1,
+    "exact_match": 0.3333333333333333
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2ko",
+    "digits": "8",
+    "n": 1,
+    "correct": 0,
+    "exact_match": 0.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2ko",
+    "digits": "all",
+    "n": 1275,
+    "correct": 1272,
+    "exact_match": 0.9976470588235294
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "2",
+    "n": 9,
+    "correct": 8,
+    "exact_match": 0.8888888888888888
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1500,
+    "exact_match": 0.9993337774816788
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "en2num",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9998,
+    "exact_match": 0.9997000299970003
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2en",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2en",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2en",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2en",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2en",
+    "digits": "5",
+    "n": 245,
+    "correct": 245,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2en",
+    "digits": "6",
+    "n": 26,
+    "correct": 26,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2en",
+    "digits": "7",
+    "n": 3,
+    "correct": 3,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2en",
+    "digits": "8",
+    "n": 1,
+    "correct": 0,
+    "exact_match": 0.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2en",
+    "digits": "all",
+    "n": 1275,
+    "correct": 1274,
+    "exact_match": 0.9992156862745099
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1501,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "ko2num",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9999,
+    "exact_match": 0.9998000199980002
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1500,
+    "exact_match": 0.9993337774816788
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2en",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9998,
+    "exact_match": 0.9997000299970003
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1501,
+    "exact_match": 1.0
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1498,
+    "exact_match": 0.9986666666666667
+  },
+  {
+    "model": "baseline_continued",
+    "direction": "num2ko",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9998,
+    "exact_match": 0.9997000299970003
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2ko",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2ko",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2ko",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2ko",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2ko",
+    "digits": "5",
+    "n": 245,
+    "correct": 245,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2ko",
+    "digits": "6",
+    "n": 26,
+    "correct": 26,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2ko",
+    "digits": "7",
+    "n": 3,
+    "correct": 3,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2ko",
+    "digits": "8",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2ko",
+    "digits": "all",
+    "n": 1275,
+    "correct": 1275,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1495,
+    "exact_match": 0.9966666666666667
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "2",
+    "n": 9,
+    "correct": 7,
+    "exact_match": 0.7777777777777778
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1498,
+    "exact_match": 0.9986666666666667
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1499,
+    "exact_match": 0.9986675549633578
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "en2num",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9990,
+    "exact_match": 0.9989001099890011
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2en",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2en",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2en",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2en",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2en",
+    "digits": "5",
+    "n": 245,
+    "correct": 245,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2en",
+    "digits": "6",
+    "n": 26,
+    "correct": 26,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2en",
+    "digits": "7",
+    "n": 3,
+    "correct": 3,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2en",
+    "digits": "8",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2en",
+    "digits": "all",
+    "n": 1275,
+    "correct": 1275,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1494,
+    "exact_match": 0.996
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "4",
+    "n": 900,
+    "correct": 899,
+    "exact_match": 0.9988888888888889
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1496,
+    "exact_match": 0.9973333333333333
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1500,
+    "exact_match": 0.9993337774816788
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1497,
+    "exact_match": 0.998
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "ko2num",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9986,
+    "exact_match": 0.9985001499850015
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1499,
+    "exact_match": 0.9986675549633578
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2en",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9995,
+    "exact_match": 0.9994000599940006
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "1",
+    "n": 1,
+    "correct": 1,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "10",
+    "n": 1500,
+    "correct": 1498,
+    "exact_match": 0.9986666666666667
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "2",
+    "n": 9,
+    "correct": 9,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "3",
+    "n": 90,
+    "correct": 90,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "4",
+    "n": 900,
+    "correct": 900,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "5",
+    "n": 1500,
+    "correct": 1499,
+    "exact_match": 0.9993333333333333
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "6",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "7",
+    "n": 1500,
+    "correct": 1500,
+    "exact_match": 1.0
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "8",
+    "n": 1501,
+    "correct": 1500,
+    "exact_match": 0.9993337774816788
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "9",
+    "n": 1500,
+    "correct": 1495,
+    "exact_match": 0.9966666666666667
+  },
+  {
+    "model": "pseudo_augmented",
+    "direction": "num2ko",
+    "digits": "all",
+    "n": 10001,
+    "correct": 9992,
+    "exact_match": 0.9991000899910009
+  }
+]
