@@ -42,7 +42,8 @@ project01/
 
 ## 2. 파일 설명
 
-### 2-1. LSTM_Multi
+<details>
+<summary><strong>2-1. LSTM_Multi</strong></summary>
 
 #### 노트북 읽는 순서
 
@@ -174,7 +175,10 @@ Beam Search는 매 단계에서 누적 로그확률이 높은 후보를 기본 3
 
 입력 언어 분류 정확도는 번역 쌍 기준 100%입니다.
 
-### 2-2. GRU_Attn
+</details>
+
+<details>
+<summary><strong>2-2. GRU_Attn</strong></summary>
 
 #### 노트북 읽는 순서
 
