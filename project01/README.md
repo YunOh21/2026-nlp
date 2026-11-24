@@ -6,8 +6,8 @@
 
 ```text
 project01/
-├── 1_LSTM_Multi.ipynb      # LSTM 학습 및 추론(Greedy, Beam & Pivot) : 1개의 모델
-├── 1_LSTM_Multi.pt         # 6방향 1모델
+├── 1_LSTM_multi.ipynb      # LSTM 학습 및 추론(Greedy, Beam & Pivot) : 1개의 모델
+├── 1_LSTM_multi.pt         # 6방향 1모델
 ├── 2_GRU_Attn.ipynb        # GRU + Attention 학습 및 추론(Greedy) : 6개의 모델
 ├── en2ko.pt                # 영어 → 한국어
 ├── en2num.pt               # 영어 → 숫자
@@ -24,13 +24,16 @@ project01/
 1_LSTM_Multi는 Attention 없이 LSTM만으로 학습한 코드입니다.
 - 6방향 번역을 1개의 모델(1_LSTM_Multi)로 학습하였으며, 테스트셋에서는 99% 이상의 준수한 성능을 보였습니다.
 - 다만 30000 (삼만)과 같이 0이 연속되는 숫자는 정상적으로 번역하지 못하는 모습을 보여, Pivot Translation 및 Beam을 적용하였습니다.
-- 테스트 편이를 위해 입력 언어가 무엇인지 모델이 직접 알아보는 lang_fc 헤드를 추가했습니다.
 - 디코딩 알고리즘을 Beam으로 바꾸는 것은 큰 차이가 없었고, 영어나 한글을 숫자로 먼저 번역하면 성능이 조금 나았습니다.
 - 다만 one million (1,000,000) 같은 숫자는 Pivot을 통해서도 번역하지 못했습니다.
 
 2_GRU_Attn은 GRU와 Scaled Dot Attention을 활용하여 학습한 코드입니다.
 - 각 방향에 대해 6개의 모델을 학습했습니다: en2ko, en2num, ...
 - one million은 번역하지 못했지만, 30000 같은 숫자는 Pivot 없이도 잘 번역했고 테스트셋과 임의 입력 값에 대해 전반적으로 보다 나은 성능을 보였습니다.
+
+제출물에서 제외된 실험
+- character 단위로 학습: 다국어 학습을 위해 적용했으나, 과제에서 얻는 이익이 적고 추론 속도가 매우 느림(테스트셋 추론 30분 소요 cf. word-level: 5분)
+- data augmentation: 추가 데이터를 학습하여 성능을 개선했으나, 모델 구조 학습 목적과는 부합하지 않아 제외
 
 ### 기본 실행: 저장 모델 평가
 
