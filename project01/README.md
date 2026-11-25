@@ -65,7 +65,7 @@ project01/
 
 #### 번역만 사용하기
 
-`torch`, `tqdm`을 설치하고 `num2txt.txt`, `num2kor.txt`, `1_LSTM_multi.pt`를 노트북 실행 폴더에 둡니다. 저장 모델 파일명이 다르면 1절의 `MODEL_FILE`을 해당 파일명으로 변경합니다. 5절의 학습 코드는 주석 처리된 상태로 유지하고 1~6절을 실행합니다. 7~8절은 테스트셋 평가이므로 필요한 경우에만 실행합니다.
+`torch`, `tqdm`을 설치하고 `num2txt.txt`, `num2kor.txt`, `1_LSTM_multi.pt`를 노트북 실행 폴더에 둡니다. 저장 모델 파일명이 다르면 1절의 `MODEL_FILE`을 해당 파일명으로 변경합니다. 5절의 학습 코드는 주석 처리된 상태로 유지하고 1~6절을 실행합니다.
 
 ```python
 translate("12345", "num", "ko")
